@@ -25,11 +25,11 @@
 [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=F24E1E&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) 
 [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) 
 [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://www.markdownguide.org/)[![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) 
-https://img.shields.io/badge/vite-%23646CFF?logo=vite&logoColor=white
+[![Vite](https://img.shields.io/badge/vite-%23646CFF?logo=vite&logoColor=white)]
 [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?logo=Codewars&logoColor=black)](https://www.codewars.com/) 
 [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-%23000000?logo=MDN%20Web%20Docs&logoColor=fff)](https://developer.mozilla.org/ru/) 
-https://img.shields.io/badge/NPM-%23CB3837?logo=NPM&logoColor=fff
-https://img.shields.io/badge/Webpack-%238DD6F9?logo=Webpack&logoColor=black
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837?logo=NPM&logoColor=fff)]
+[![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?logo=Webpack&logoColor=black)]
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&logoColor=fff)](https://www.typescriptlang.org/) 
 
   <br>
